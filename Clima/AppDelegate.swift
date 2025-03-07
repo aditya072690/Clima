@@ -2,12 +2,13 @@
 //  AppDelegate.swift
 //  Clima
 //
-//  Created by Aditya chauhan on 07/03/25.
+//  Created by Angela Yu on 01/09/2019.
+//  Copyright © 2019 App Brewery. All rights reserved.
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
